@@ -1,0 +1,128 @@
+body{
+  color: #31112c;
+}
+#firstsection{
+  height: 600px;
+  padding-top: 20px;
+  /* width: 600px; */
+  background-color: #ad9d9d;
+
+}
+.name{
+  font-family: 'Monoton', cursive;
+}
+.shortDiscription{
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.8rem;
+}
+
+.logo{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+}
+
+.nav-item{
+  padding: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: auto 10px;
+  font-family: 'Solway', serif;
+  font-weight: bolder;
+
+
+}
+
+.btn{
+  padding: 0px;
+  margin: 0px 0px;
+  font-weight: bolder;
+  padding-left: 5px;
+
+}
+
+.contentdiv{
+  margin: 100px auto;
+  text-align: center;
+}
+.firstsectioncontent{
+  display: inline-block;
+  text-align: center;
+  margin: auto 70px;
+  padding: 20px;
+  width: 700px;
+}
+.rightsidelinks{
+  display: inline-block;
+  text-decoration: none;
+  margin:10px 30px;
+  margin-top: 0px;
+}
+
+h1{
+  font-size: 60px;
+}
+.firstsectionSocialLinks{
+  padding: 2px 20px;
+  margin:auto 10px;
+
+}
+/* ********************************************************************************************* */
+/* SECOND SECTION  */
+#secondsection{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  padding: 20px;
+  font-family: 'Bitter', serif;
+  font-size: 3.5rem;
+}
+.card{
+  padding: 50px;
+  margin: 100px 200px;
+  background-color: #ad9d9d;
+}
+.card-text{
+  font-size: 28px;
+}
+/* ************************************************************************************************************** */
+/* THIRD SECTION */
+#thirdsection{
+  text-align: center;
+  margin: 100px auto;
+  background-color: #ad9d9d;
+  padding:50px 100px 100px;
+}
+.education-nav-pill{
+  margin: auto 100px;
+  padding-bottom: 25px;
+}
+.educationfontstyling{
+  font-family: 'Comfortaa', cursive;
+  font-size: 1.5rem;
+}
+
+#fourthsection{
+  text-align: center;
+
+  margin: 200px 200px 100px;
+  margin-top: 50px;
+  background-color: #ebebeb;
+  padding: 100px auto;
+}
+.skill{
+  padding: 20px;
+  font-size: 45px;
+}
+#fifthsection{
+  background-color: #ad9d9d;
+  margin-bottom: 100px;
+  padding-top: 60px;
+}
+.projects{
+  padding: 00px 50px 100px;
+
+}
+.tab-content{
+  margin:auto 150px;
+}
